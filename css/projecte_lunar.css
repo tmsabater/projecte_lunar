@@ -1,0 +1,36 @@
+
+body {
+    background-color: #07E8FF;
+}
+
+h1 {
+    background-color: white;
+	font-size: 45px;
+	text-align: center;
+}
+
+#CONTROL {
+	background-image: url("../img/panell.png");
+	position:absolute;
+	top: 125px;
+	left:0;
+}
+
+#GAME {
+	background-image: url(../img/opcions.png);
+	position:absolute;
+	top: 125px;
+	right:0;
+}
+
+#NAVE {
+	position:absolute;
+	left: 50%;
+	bottom:200px;
+	}
+#TERRA {
+	position:absolute;
+	bottom:0;
+	}
+
+
